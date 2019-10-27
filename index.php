@@ -50,7 +50,7 @@
         border-top-left-radius: 10px;
         border-bottom-left-radius: 10px;
         width:100px;
-        height: 466px;
+        height: 474px;
         vertical-align: top;
         box-sizing: border-box;
         position: relative;
