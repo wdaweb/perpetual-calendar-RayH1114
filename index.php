@@ -177,7 +177,7 @@
         display: inline-block;
         background: linear-gradient(to bottom, #654ea3,  #473E95); 
         color:rgb(255, 255, 255) !important;
-        width: 80%;
+        width: 100%;
         height: 3px;
         position: relative;
         top: 5px;
